@@ -64,11 +64,20 @@ ul {
     margin-left: auto;
 }
 
-.bottom {
-    border-top: 1px solid white;
-    opacity: .6;
+.thumbnail {
+    border: 10px solid white;
+    border-bottom: 45px solid white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-bottom: 80px;
+
 }
 
 form {
     opacity: .6;
+}
+
+.footer {
+    border-top: 1px solid white;
+    opacity: 1;
 }
